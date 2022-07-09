@@ -1,6 +1,7 @@
 pandas
 selenium
 webdriver_manager
+webdriver-manager
 streamlit
 streamlit-aggrid
 plotly-express
